@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#modification
 if [ -z "$HEARTBEATSTEP" ]; then
     echo "La variable d'environnement HEARTBEATSTEP doit avoir une valeur!";
     exit 1;
